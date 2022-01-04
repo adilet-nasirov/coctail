@@ -1,6 +1,4 @@
-'use strict';
-
-export const getData = function () {
+export const data = () => {
     return [{
             "idDrink": "17222",
             "strDrink": "A1",
