@@ -4,6 +4,7 @@ import {
 import {
     filtered
 } from "./filter.js";
+
 const dataDrinks = data();
 //declaring variables from html
 const container = document.querySelector(".container");
@@ -19,7 +20,7 @@ showOnWindow(dataDrinks);
 
 input.addEventListener("keyup", function (event) {
     // Number 13 is the "Enter" key on the keyboard
-    if (event.key === "Enter") {
+    if (event.key) {
         const fArray = filtered(input.value);
         if (fArray.length > 0) {
             console.log(fArray);
