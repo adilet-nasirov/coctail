@@ -242,7 +242,7 @@ export const data = () => {
             "strInstructions": "Stirr. Grnish with maraschino cherry.",
             "strInstructionsDE": "Rühren. Mit Maraschinokirsche garnieren.",
             "strInstructionsIT": "Versare tutti gli ingredienti in un mixing glass. Mescolate.\r\nGuarnire con una ciliegia al maraschino.",
-            "strDrinkThumb": "https://www.pepperdelight.com/wp-content/uploads/2019/04/pepper-delight-orange-crush-3.jpg",
+            "strDrinkThumb": "https://www.acouplecooks.com/wp-content/uploads/2021/03/Orange-Margarita-009.jpg",
             "strIngredient1": "Orange juice",
             "strIngredient2": "Grapefruit juice",
             "strIngredient3": "Apple juice",
