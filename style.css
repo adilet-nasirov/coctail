@@ -31,7 +31,7 @@ main {
 .search-bar h1 {
     font-size: 50px;
     color: var(--secondary-color);
-    margin-top: 100px;
+    margin-top: 80px;
 }
 
 input {
@@ -141,7 +141,7 @@ input {
 }
 
 .container {
-    padding: 100px;
+    padding: 80px;
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 100px;
@@ -155,14 +155,11 @@ div img {
 }
 
 .container div img:hover {
-    /* filter: blur(8px);
-    -webkit-filter: blur(2px); */
     opacity: 0.5;
 }
 
 .container div {
-    /* -webkit-box-shadow: 3px 7px 13px -1px rgba(0, 0, 0, 0.85);
-  box-shadow: 3px 7px 13px -1px rgba(0, 0, 0, 0.85); */
+    height: 400px;
     padding: 0;
     position: relative;
 }
